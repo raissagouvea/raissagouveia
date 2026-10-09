@@ -44,3 +44,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/raissagouveia/raissagouveia/output/snake.svg" />
 </div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorCunha26&theme=tokyonight&hide_border=true" width="400"/>
+
