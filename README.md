@@ -14,7 +14,6 @@
 
 - 📚 Cursando **Análise e Desenvolvimento de Sistemas** no SENAI Mariano Ferraz
 - 💻 Aprendendo Git, GitHub e boas práticas de versionamento
-- 🚀 Em constante evolução como desenvolvedora
 
 ---
 
